@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EPGP": {
+      "commandName": "Project",
+      "commandLineArgs": "-f roster.json -t -o output.json"
+    }
+  }
+}
